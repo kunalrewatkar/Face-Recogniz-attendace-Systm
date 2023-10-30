@@ -1,6 +1,6 @@
 # Face-Recogniz-attendace-Systm
 
-Title: Building a Face Recognition Attendance System in Python
+Title:  Face Recognition Attendance System in Python
 
  In this post, I'm going to walk you through how I built this system using Python, the Face Recognition library, and more.
 
